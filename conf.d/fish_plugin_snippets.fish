@@ -20,4 +20,4 @@ function command_memory_store;
 	end
 
 end
-bind 'ch' 'command_memory'
+bind '\ch' 'command_memory'
